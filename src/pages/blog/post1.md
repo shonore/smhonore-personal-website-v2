@@ -1,17 +1,41 @@
 ---
 layout: "../../layouts/PostLayout.astro"
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
+title: "Effective communication: The golden skill for a software engineer"
+description: "Being a software engineer isn't simply about writing code. Having the ability to 
+understand and effectively communication to your audience is essential for being successful."
+pubDate: "Jan 16, 2023"
 heroImage: "/post_img.webp"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+One of the draws of being a software engineer is the perception that you can sit in a dark room for hours and write code without talking to anyone. This sterotype is what drew me to the field because I am an introvert who had trouble speaking up. 
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+As I learned new programming languages, software architecture paradigm, and tools I thought I would rise to the top of my career organically. My false reality was disrupted one day a few years into my career when I had a more senior engineer say to me, "You know how to code but something is missing ... I just am not sure. You just don't got "it"". I was deeply offended of course but knew he was right. There was something missing but I just couldn't put my finger on it. 
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+More recently, I had a manager tell me in a 1:1 what that missing piece was. She had observed me for a few months and how I interacted with my team. From her analysis, I was not communicating effectively. 
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+<b>What was wrong? </b>
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+- I was spamming various chat channels frequently
+- I was sending long messages that took too much time and effort to read
+- I was quite in meetings
+- I was not practicing active listening
+- I was constantly suggesting new ideas for process changes
+- I was not adapting to understand the etiquette of the virtual workplace
+
+<b>Why was this wrong?</b>
+
+- I was distracting the team with the frequent chat messages and also sending messages to the wrong channel.
+- My messages were detailed but because they were so long my recipient didn't have time to read them.
+- I was multitasking during meetings so I would not participate and missed key information discussed.
+- I was sharing ideas before they were well thought out. 
+
+<b>Solution</b>
+
+I decided to take the initative to solve this issue by honing my rusty communincation skills.
+
+
+
+
+
+
+
