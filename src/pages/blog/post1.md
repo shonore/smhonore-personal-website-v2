@@ -4,7 +4,7 @@ title: "Effective communication: The golden skill for a software engineer"
 description: "Being a software engineer isn't simply about writing code. Having the ability to 
 understand and effectively communication to your audience is essential for being successful."
 pubDate: "Jan 16, 2023"
-heroImage: "/post_img.webp"
+heroImage: "/communication-img.png"
 ---
 
 One of the draws of being a software engineer is the perception that you can sit in a dark room for hours and write code without talking to anyone. This sterotype is what drew me to the field because I am an introvert who had trouble speaking up. 
@@ -31,12 +31,15 @@ More recently, I had a manager tell me in a 1:1 what that missing piece was. She
 
 <b>Solution</b>
 
-I decided to take the initative to solve this issue by honing my rusty communincation skills. I signed up for some classes to learn how to communicate effectively at the local university. I also took some classes online. 
+I decided to take the initative to solve this issue by honing my rusty communincation skills. I signed up for a class to learn how to communicate effectively at the local university, UT Austin 🤘. I also took courses online at Coursera and Udemy. 
+
+These solutions come with a cost but there are free alternatives on YouTube.
 
 <b>Key Takeaways</b>
 - Understand your auidence and cater your communiction to them. For instance, if your audience loves using emojis and memes to communicate then don't be afraid to do the same to connenct. 
 - Find a private place to store and refine your ideas. Once those ideas are more well thought out you can share them out with your team for gaining buy-in. 
-- Be mindful of other's time. If it is before or after work hours when you send a message don't be surprised if it is ignored. Also, if someone is very busy they will not have time to read long messages, so keep it short and sweet. 
+- Be mindful of other's time. If it is before or after working hours when you send a message don't be surprised if it is ignored. Understand your audience's schedule when you are trying to convey your message. 
+- If someone is very busy they will not have time to read long messages. Keep it short and sweet if you want to get your message across. 
 
 
 
