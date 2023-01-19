@@ -17,7 +17,7 @@ More recently, I had a manager tell me in a 1:1 what that missing piece was. She
 
 - I was spamming various chat channels frequently
 - I was sending long messages that took too much time and effort to read
-- I was quite in meetings
+- I was quiet in meetings
 - I was not practicing active listening
 - I was constantly suggesting new ideas for process changes
 - I was not adapting to understand the etiquette of the virtual workplace
@@ -31,7 +31,12 @@ More recently, I had a manager tell me in a 1:1 what that missing piece was. She
 
 <b>Solution</b>
 
-I decided to take the initative to solve this issue by honing my rusty communincation skills.
+I decided to take the initative to solve this issue by honing my rusty communincation skills. I signed up for some classes to learn how to communicate effectively at the local university. I also took some classes online. 
+
+<b>Key Takeaways</b>
+- Understand your auidence and cater your communiction to them. For instance, if your audience loves using emojis and memes to communicate then don't be afraid to do the same to connenct. 
+- Find a private place to store and refine your ideas. Once those ideas are more well thought out you can share them out with your team for gaining buy-in. 
+- Be mindful of other's time. If it is before or after work hours when you send a message don't be surprised if it is ignored. Also, if someone is very busy they will not have time to read long messages, so keep it short and sweet. 
 
 
 
