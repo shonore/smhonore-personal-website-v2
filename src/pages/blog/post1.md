@@ -4,46 +4,37 @@ title: "Effective communication: The golden skill for a software engineer"
 description: "Being a software engineer isn't simply about writing code. Having the ability to 
 understand and effectively communication to your audience is essential for being successful."
 pubDate: "Jan 16, 2023"
-heroImage: "/communication-img.png"
+heroImage: ""
 ---
 
 One of the draws of being a software engineer is the perception that you can sit in a dark room for hours and write code without talking to anyone. This sterotype is what drew me to the field because I am an introvert who had trouble speaking up. 
 
-As I learned new programming languages, software architecture paradigm, and tools I thought I would rise to the top of my career organically. My false reality was disrupted one day a few years into my career when I had a more senior engineer say to me, "You know how to code but something is missing ... I just am not sure. You just don't got "it"". I was deeply offended of course but knew he was right. There was something missing but I just couldn't put my finger on it. 
+As I learned new programming languages, software architecture paradigm, and tools I thought I would rise to the top of my career organically. It finally dawned on me. As the world shifted to virtual work I had not adapted and upskilled my communication soft skills. 
 
-More recently, I had a manager tell me in a 1:1 what that missing piece was. She had observed me for a few months and how I interacted with my team. From her analysis, I was not communicating effectively. 
+<b>What was wrong?</b>
 
-<b>What was wrong? </b>
-
-- I was spamming various chat channels frequently
-- I was sending long messages that took too much time and effort to read
-- I was quiet in meetings
-- I was not practicing active listening
-- I was constantly suggesting new ideas for process changes
-- I was not adapting to understand the etiquette of the virtual workplace
-
-<b>Why was this wrong?</b>
-
-- I was distracting the team with the frequent chat messages and also sending messages to the wrong channel.
-- My messages were detailed but because they were so long my recipient didn't have time to read them.
-- I was multitasking during meetings so I would not participate and missed key information discussed.
+- I was distracting the team with the frequent chat messages and also sending messages to the wrong media.
+- I was multitasking during meetings and would missed key information discussed.
 - I was sharing ideas before they were well thought out. 
 
-<b>Solution</b>
+<b>How I </b>
 
-I decided to take the initative to solve this issue by honing my rusty communincation skills. I signed up for a class to learn how to communicate effectively at the local university, UT Austin 🤘. I also took courses online at Coursera and Udemy. 
+I decided to take the initative to solve this issue by honing my rusty communincation skills. I signed up for a class to learn how to communicate effectively at the local university, UT Austin 🤘. I also took free online micro-learnings through my company's learning portal and took online courses at Coursera and Udemy. 
 
-These solutions come with a cost but there are free alternatives on YouTube.
+<b>Media-richness index</b>
 
-<b>Key Takeaways</b>
-- Understand your auidence and cater your communiction to them. For instance, if your audience loves using emojis and memes to communicate then don't be afraid to do the same to connenct. 
-- Find a private place to store and refine your ideas. Once those ideas are more well thought out you can share them out with your team for gaining buy-in. 
-- Be mindful of other's time. If it is before or after working hours when you send a message don't be surprised if it is ignored. Understand your audience's schedule when you are trying to convey your message. 
-- If someone is very busy they will not have time to read long messages. Keep it short and sweet if you want to get your message across. 
+The best piece of information I found for effective communication was the media-richness index. I wish someone had shown me this chart sooner!
 
+In order to decipher what communication media you should use you have to consider the complexity of the task you are trying to achieve and how much information you are trying to convey. From the diagram you can see that the more complex and information rich your messages is the more synchronous your communication becomes. You would leverage asychronous communication for less information rich and complex tasks. 
 
+<img src="/media-richness index.png">
 
+You can learn more about asynchronous and sychronous communication <a href="https://www.indeed.com/career-advice/career-development/asynchronous-vs-synchronous-communication">here!</a>
 
+<b>Overcommunication</b>
 
+Another really great tip I learned was to be aware of when its appropriate to overcommunicate information. Overcommunication is when you share more information than necessary about a topic and share it more frequently. When I am really passionate about a topic I love researching it extensively and then sharing in detail what I learn with others. Although this might be okay during your personal time it could be detrimental to you and your team if you do this at work. 
 
+In the workplace, if you overcommunicate an issue your team might start to tune you out as the frequency of the messages increase. Also, those not interested in the topic might get bored eventually and stop paying attention. Also, it could come off as condecending. 
 
+ There are some benefits of overcommunication. For instance, it will ensure that everyone understands the message, goals, and desired outcome while mimizing surprises. 
